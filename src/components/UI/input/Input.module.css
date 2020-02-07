@@ -1,0 +1,14 @@
+.inputContainer{
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.label{
+
+    font-size: large;
+}
+
+.input{
+    width : 200px;
+    height: 20px;
+}
